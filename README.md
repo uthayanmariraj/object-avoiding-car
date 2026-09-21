@@ -1,4 +1,4 @@
-# NoobBot: ESP32 Encoder-Guided Robot Controller
+# ESP32 Encoder-Guided Robot Controller
 
 An open-source ESP32 firmware for a two-wheeled differential drive robot controller featuring optical wheel encoder feedback, closed-loop distance and angular turning control, and Bluetooth Serial command telemetry with safety disconnect protection.
 
@@ -72,7 +72,7 @@ noobbot/
 ### Building & Flashing
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/noobbot.git
+   git clone https://github.com/uthayanmariraj/object-avoiding-car
    ```
 2. Open `src/noobbot.ino` in Arduino IDE.
 3. Select your ESP32 serial port and click **Upload**.
