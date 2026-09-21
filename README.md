@@ -2,7 +2,7 @@
 
 An open-source ESP32 firmware for a two-wheeled differential drive robot controller featuring optical wheel encoder feedback, closed-loop distance and angular turning control, and Bluetooth Serial command telemetry with safety disconnect protection.
 
-![NoobBot ESP32 Robot](images/robot.jpg)
+
 
 ---
 
